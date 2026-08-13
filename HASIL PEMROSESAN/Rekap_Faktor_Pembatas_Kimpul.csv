@@ -1,0 +1,25 @@
+Faktor_Pembatas,Jumlah,Persentase (%)
+pH,8363,45.22
+Tidak ada,3047,16.48
+"pH, Tekstur",2919,15.79
+Tekstur,1544,8.35
+"Tekstur, Bulk",694,3.75
+Bulk,661,3.57
+"pH, CEC",367,1.98
+"pH, Bulk",183,0.99
+CEC,153,0.83
+"Tekstur, CEC, Bulk",122,0.66
+"pH, Tekstur, Bulk",114,0.62
+"pH, Tekstur, CEC",111,0.6
+"CEC, Bulk",89,0.48
+"Tekstur, CEC",32,0.17
+"pH, CEC, Bulk",24,0.13
+"SOC, Bulk",16,0.09
+"SOC, CEC, Bulk",15,0.08
+"pH, SOC, Bulk",14,0.08
+"Tekstur, SOC, Bulk",8,0.04
+"pH, Tekstur, SOC, Bulk",5,0.03
+"pH, Tekstur, CEC, Bulk",5,0.03
+"pH, SOC, CEC, Bulk",3,0.02
+"pH, Tekstur, SOC, CEC, Bulk",2,0.01
+"Tekstur, SOC, CEC, Bulk",1,0.01
